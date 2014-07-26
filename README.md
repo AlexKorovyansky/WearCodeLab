@@ -1,7 +1,9 @@
 WearCodeLab
 ===========
 
-WearCodeLab
+CodeLab for Post Google I/O Event @ GDG Omsk.
+Basics of Building Wearable Apps.
+Jul 26, 2014.
 
 - Step 0: Install [Android Wear App](https://play.google.com/store/apps/details?id=com.google.android.wearable.app) to your device or [emulator](https://developer.android.com/training/wearables/apps/creating.html).
 - Step 1: [Project Setup](https://github.com/korovyansk/WearCodeLab/tree/4f4d4b6ce96a26a0167f97910bc148b9b15c5ef2).
